@@ -1,2 +1,2 @@
-# crashSearch
-CrashSearch uses the symptoms of a crash available in a bug report to create a fingerprint that it uses to search for bugs with similar behaviors, and leverages sequen- tial pattern mining to effectively showcase relationships among duplicate bugs.
+# CrashSearch
+We designed CrashSearch for the specific purpose of efficiently mapping a reported bug to related known bugs within a bug datastore, including both exact and inexact duplicates. CrashSearch uses the symptoms of a crash to create a fingerprint that it uses to search for bugs with similar behaviors, and leverages sequential pattern mining to effectively showcase relationships among duplicate bugs.
