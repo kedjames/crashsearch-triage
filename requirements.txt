@@ -1,0 +1,8 @@
+ConfigArgParse==0.15.1
+mmh3==3.0.0
+pandas==1.1.5
+numpy==1.17.4
+networkx==2.4
+pygraphviz==1.5
+prettytable==2.0.0
+prefixspan==0.5.2

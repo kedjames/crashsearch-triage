@@ -1,0 +1,27 @@
+{
+    "query_id": "CVE-2017-6850",
+    "similarity_groups": [
+        {
+            "bug_id": "CVE-2016-8887",
+            "similarity": "0.671875"
+        }
+    ],
+    "analysis_groups": [
+        {
+            "group_id": "c5cf91d9",
+            "bugs": [
+                "CVE-2016-8887",
+                "CVE-2017-6850"
+            ],
+            "sequence": [
+                "main",
+                "jas_image_decode",
+                "jp2_decode",
+                "jp2_box_get",
+                "jp2_box_destroy",
+                "jas_free"
+            ],
+            "shared_length": "6 of 7"
+        }
+    ]
+}

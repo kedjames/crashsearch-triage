@@ -1,0 +1,9 @@
+bug_id,program,bug_type,shared_sequence
+CVE-2021-26927,jasper,null-dereference,<-jp2_decode<-jas_image_decode<-main
+CVE-2021-26926,jasper,heap-buffer-overflow,<-jp2_decode<-jas_image_decode<-main
+CVE-2021-3467,jasper,null-dereference,<-jp2_decode<-jas_image_decode<-main
+CVE-2021-3443,jasper,null-dereference,<-jp2_decode<-jas_image_decode<-main
+CVE-2021-3272,jasper,heap-buffer-overflow,<-jp2_decode<-jas_image_decode<-main
+CVE-2018-20570,jasper,heap-buffer-overflow,<-jp2_encode<-jas_image_encode<-main
+CVE-2018-19543,jasper,heap-buffer-overflow,<-jp2_decode<-jas_image_decode<-main
+CVE-2018-19542,jasper,heap-buffer-overflow,<-jp2_decode<-jas_image_decode<-main
